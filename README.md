@@ -1,3 +1,3 @@
 # yelp-variant-ts
-yelp clone incomplete. 
+Yelp clone incomplete. 
 PERN stack with typescript
